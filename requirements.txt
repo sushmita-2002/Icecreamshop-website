@@ -4,7 +4,6 @@ Flask-SQLAlchemy==2.5.1
 gunicorn==20.1.0
 json5==0.9.5
 mypy-extensions==0.4.3
-navigator-updater==0.2.1
 pathspec==0.7.0
 pypiwin32==223
 pyreadline==2.1
