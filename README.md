@@ -1,2 +1,3 @@
 # Icecreamshop-website
-This is a ice cream shop website build using html, css, bootstrap and python flask framework.
+This is a simple website for an ice-cream shop nuilt using flask and deployed using heroku.
+
