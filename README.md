@@ -10,11 +10,11 @@ This repository contains the codebase for the website of ice cream shop. This is
 - [Technologies Used](#TechnologiesUsed)
 
 ## Features
-- Homepage: A visually appealing landing page with images of our popular ice cream flavors and a brief introduction to our shop.
+- Homepage: A visually appealing landing page with images of popular ice cream flavors and a brief introduction to shop.
 - Menu: An interactive menu page displaying all available ice cream flavors, including detailed descriptions, prices, and allergen information.
-- Online Ordering: Customers can easily place orders online through a user-friendly interface. The system should support customization of orders and provide a secure checkout process.
-- About Us: A page providing information about our ice cream shop, including our history, values, and commitment to quality.
+- About Us: A page providing information about ice cream shop.
 - Contact: An accessible contact form allowing customers to reach out with inquiries, feedback, or special requests.
+- Online Ordering: Customers can easily place orders online through a user-friendly interface.
 
 ## Installation
 1. Clone the repository:
