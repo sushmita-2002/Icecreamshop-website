@@ -17,12 +17,11 @@ This repository contains the codebase for the website of ice cream shop. This is
 - Contact: An accessible contact form allowing customers to reach out with inquiries, feedback, or special requests.
 
 ## Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/ice-cream-shop-website.git
-Navigate to the project directory:
+1. Clone the repository:
+ ```
+git clone https://github.com/sushmita-2002/ice-cream-shop-website.git
+ ```
+2. Navigate to the project directory:
 
 bash
 Copy code
