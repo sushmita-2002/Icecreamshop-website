@@ -19,18 +19,16 @@ This repository contains the codebase for the website of ice cream shop. This is
 ## Installation
 1. Clone the repository:
  ```
-git clone https://github.com/sushmita-2002/ice-cream-shop-website.git
+git clone https://github.com/sushmita-2002/Icecreamshop-website.git
  ```
 2. Navigate to the project directory:
-
-bash
-Copy code
-cd ice-cream-shop-website
-Install dependencies:
-
-bash
-Copy code
+ ```
+cd icecreamshop-website
+ ```
+3. Install dependencies:
+ ```
 npm install
+ ```
 
 ## Usage
 1. Start the development server:
