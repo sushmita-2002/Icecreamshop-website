@@ -34,12 +34,10 @@ npm install
 
 ## Usage
 1. Start the development server:
-
-bash
-Copy code
+ ```
 npm start
-
-2.Open your web browser and visit http://localhost:3000 to view the website locally.
+ ```
+2. Open your web browser and visit http://localhost:3000 to view the website locally.
 3. Explore different pages, features, and functionalities.
 
 ## Technologies Used
