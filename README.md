@@ -7,7 +7,7 @@ This repository contains the codebase for the website of ice cream shop. This is
 - [Features](#Features)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Technologies Used](#Technologies Used)
+- [Technologies Used](#TechnologiesUsed)
 
 ## Features
 - Homepage: A visually appealing landing page with images of our popular ice cream flavors and a brief introduction to our shop.
@@ -44,9 +44,9 @@ npm start
 3. Explore different pages, features, and functionalities.
 
 ## Technologies Used
-Frontend: HTML5, CSS3
-Backend: Flask(Python)
-Database: MySQL/SQLalchemy
+- Frontend: HTML5, CSS3
+- Backend: Flask(Python)
+- Database: MySQL/SQLalchemy
 
 
 
